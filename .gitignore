@@ -4,3 +4,9 @@ pom.xml.releaseBackup
 pom.xml.versionsBackup
 pom.xml.next
 release.properties
+bundle/target
+content/target
+.idea/
+*.iml
+.project/
+.settings/
