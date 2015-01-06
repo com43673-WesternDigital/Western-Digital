@@ -10,3 +10,5 @@ content/target
 *.iml
 .project/
 .settings/
+.classpath
+.project
